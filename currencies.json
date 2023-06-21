@@ -1,7 +1,7 @@
 {
-    "usd/try": 19,
-    "eur/try": 20,
-    "f_tip": "Tip 3",
-    "f_ay_gun": 30,
-    "f_tahsilat_gun": 15
+    "usd/try": 19.0,
+    "eur/try": 20.0,
+    "f_tip": "Tip 2",
+    "f_ay_gun": "30",
+    "f_tahsilat_gun": "21"
 }
